@@ -1,5 +1,8 @@
 # 3D Human Avatar Generation
 
+<img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif">
+<img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/acceaac4-71e1-40e9-9529-733fbc11c0b8.gif">
+<img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/34ea0ec7-3ff2-4b9c-bbf3-bb399ed37be5.gif">
 
  
 <table class="center">
