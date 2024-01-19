@@ -1,71 +1,45 @@
 # 3D Human Avatar Generation
 
-<img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif">
+<img  src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif" >
 <img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/acceaac4-71e1-40e9-9529-733fbc11c0b8.gif">
 <img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/34ea0ec7-3ff2-4b9c-bbf3-bb399ed37be5.gif">
 
- 
 <table class="center">
-<tr>
-  <td style="text-align:center;"><b>Mesh Video</b></td>
-  <td style="text-align:center;" colspan="2"><b>Output Video</b></td>
-</tr>
-  
-<tr>
-  <td><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/c43338fd-11b2-495f-806f-8dc4cd2f5fe0.gif"></td>
-
-  <td><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/e0df201a-4d95-4d4c-853d-4580a4b933a1.gif"></td>
-  <td><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/c43338fd-11b2-495f-806f-8dc4cd2f5fe0.gif"></td>
-  
-
- 
-</tr>
-
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
-  <td width=25% style="text-align:center;">"Wonder Woman, is skiing"</td>
-  <td width=25% style="text-align:center;">"A little girl is skiing "</td>
-</tr>
-     
-<tr>
-  <td><img src=".gif"></td>
-  <td><img src=".gif"></td>
-  <td><img src=""></td>              
- 
-</tr>
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A rabbit is eating a watermelon"</td>
-  <td width=25% style="text-align:center;">"A cat is eating a watermelon on the table"</td>
-  <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
- </tr>
-
-<tr>
-  <td><img src=".gif"></td>
-  <td><img src=".gif"></td>              
-  <td><img src=".gif"></td>
-</tr>
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the road, cartoon style"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the snow"</td>
-
- 
-</tr>
-
-
-<!-- <tr>
-  <td><img src=".gif"></td>
-  <td><img src=".gif"></td>
-  <td><img src=".gif"></td>              
-  <td><img src=".gif"></td>
-</tr>
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A lion is roaring"</td>
-  <td width=25% style="text-align:center;">"A tiger is roaring"</td>
-  <td width=25% style="text-align:center;">"A lion is roaring, Van Gogh style"</td>
-  <td width=25% style="text-align:center;">"A wolf is roaring in New York City"</td>
-</tr> -->
-
+      <tr >
+      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
+      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
+      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
+      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
+      </tr>
+      <tr>
+      <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif"></td>
+      <td style="border: none"><img src="Results/2-cut-tusuncub-walking-in-the-snow,-blurry,-looking-at-viewer,.gif"></td>
+      <td style="border: none"><img src="Results/3-character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic.gif"></td>
+      <td style="border: none"><img src="Results/2-best-quality,-masterpiece,-photorealistic,-1girl,-light-smile,-shirt-with-collars,.gif"></td>    
+      </tr>
+      <tr >
+      <td  style="border: none; text-align: center">girl,-offshoulder,-light-smile,-shiny-skin-best-quality,-masterpiece,-photorealistic </td>
+      <td  style="border: none; text-align: center">cut-tusuncub-walking-in-the-snow,-blurry,-looking-at-viewer</td>
+      <td  style="border: none; text-align: center">character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic</td>
+      <td  style="border: none; text-align: center">best-quality,-masterpiece,-photorealistic,-1girl,-light-smile,-shirt-with-collars</td>
+      </tr>
+      <tr >
+      <td  style="border: none; text-align: center">Video/Prompt(Sentence base) </td>
+      <td  style="border: none; text-align: center">Video/Prompt(Sentence base)</td>
+      <td  style="border: none; text-align: center">Video/Prompt(Sentence base)</td>
+      <td  style="border: none; text-align: center">Video/Prompt(Sentence base)</td>
+      </tr>
+       <td style="border: none"><img src="Results/ezgif.com-video-to-gif.gif"></td>
+      <td style="border: none"><img src="Results/ezgif.com-video-to-gif (3).gif"></td>
+      <td style="border: none"><img src="Results/ezgif.com-video-to-gif (1).gif"></td>
+      <td style="border: none"><img src="Results/ezgif.com-video-to-gif (2).gif"></td>
+      </tr>
+       <tr >
+      <td  style="border: none; text-align: center">The_astronaut_dances_in_futuristic..</td>
+      <td  style="border: none; text-align: center">A_daring_man_performing_gravity-defying</td>
+      <td  style="border: none; text-align: center">A_daring_man_is_scaling_a_treacherous..</td>
+      <td  style="border: none; text-align: center">A_mighty_elephant_marches_steadily.</td>
+      </tr>
 </table>
 
 ## Installation
