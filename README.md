@@ -1,22 +1,16 @@
 # 3D Human Avatar Generation
 
-
-![render_color (2)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/ac828529-443d-4712-aebb-0fc9a2b616aa)
-
 ![render_color (5)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54)
 
 ![render_color (7)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b)
 
 
-![Uploading render_color (9).gif…]()
-
-
 <table class="center">
       <tr >
       <td  style="border: none; text-align: center">Video</td>
-      <td  style="border: none; text-align: center">Mesh</td>
       <td  style="border: none; text-align: center">Video</td>
-      <td  style="border: none; text-align: center">Mesh</td>
+      <td  style="border: none; text-align: center">Video</td>
+      <td  style="border: none; text-align: center">Video</td>
       </tr>
       <tr>
       <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif"></td>
@@ -31,10 +25,10 @@
       <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b.gif"></td>
       </tr>
       <tr >
-      <td  style="border: none; text-align: center">Video/Prompt(Sentence base) </td>
-      <td  style="border: none; text-align: center">Video/Prompt(Sentence base)</td>
-      <td  style="border: none; text-align: center">Video/Prompt(Sentence base)</td>
-      <td  style="border: none; text-align: center">Video/Prompt(Sentence base)</td>
+      <td  style="border: none; text-align: center">Mesh </td>
+      <td  style="border: none; text-align: center">Mesh </td>
+      <td  style="border: none; text-align: center">Mesh </td>
+      <td  style="border: none; text-align: center">Mesh </td>
       </tr>
        <td style="border: none"><img src="Results/ezgif.com-video-to-gif.gif"></td>
       <td style="border: none"><img src="Results/ezgif.com-video-to-gif (3).gif"></td>
