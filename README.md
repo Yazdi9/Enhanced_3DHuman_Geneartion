@@ -1,27 +1,34 @@
 # 3D Human Avatar Generation
 
-<img  src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif" >
-<img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/acceaac4-71e1-40e9-9529-733fbc11c0b8.gif">
-<img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/34ea0ec7-3ff2-4b9c-bbf3-bb399ed37be5.gif">
+
+![render_color (2)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/ac828529-443d-4712-aebb-0fc9a2b616aa)
+
+![render_color (5)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54)
+
+![render_color (7)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b)
+
+
+![Uploading render_color (9).gif…]()
+
 
 <table class="center">
       <tr >
-      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
-      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
-      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
-      <td  style="border: none; text-align: center">Video/Prompt(word base)</td>
+      <td  style="border: none; text-align: center">Video</td>
+      <td  style="border: none; text-align: center">Mesh</td>
+      <td  style="border: none; text-align: center">Video</td>
+      <td  style="border: none; text-align: center">Mesh</td>
       </tr>
       <tr>
       <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/3690e2bf-154f-4991-831d-577d6636d949.gif"></td>
-      <td style="border: none"><img src="Results/2-cut-tusuncub-walking-in-the-snow,-blurry,-looking-at-viewer,.gif"></td>
-      <td style="border: none"><img src="Results/3-character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic.gif"></td>
-      <td style="border: none"><img src="Results/2-best-quality,-masterpiece,-photorealistic,-1girl,-light-smile,-shirt-with-collars,.gif"></td>    
+      <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/6705a629-5a3b-46b1-a62e-d325e2199e2e.gif"></td>
+      <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/acceaac4-71e1-40e9-9529-733fbc11c0b8.gif"></td>
+      <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54.gif"></td>    
       </tr>
       <tr >
-      <td  style="border: none; text-align: center">girl,-offshoulder,-light-smile,-shiny-skin-best-quality,-masterpiece,-photorealistic </td>
-      <td  style="border: none; text-align: center">cut-tusuncub-walking-in-the-snow,-blurry,-looking-at-viewer</td>
-      <td  style="border: none; text-align: center">character-design,-cyberpunk-tusun-kitten-wearing-astronaut-suit,-sci-fic,-realistic</td>
-      <td  style="border: none; text-align: center">best-quality,-masterpiece,-photorealistic,-1girl,-light-smile,-shirt-with-collars</td>
+      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/34ea0ec7-3ff2-4b9c-bbf3-bb399ed37be5.gif"></td>
+      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/b97b834e-f7c3-4b38-b480-c0d637ac41a5.gif"></td>
+      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/8ab1e3e2-a578-4283-a41d-ef346880d717.gif"></td>
+      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b.gif"></td>
       </tr>
       <tr >
       <td  style="border: none; text-align: center">Video/Prompt(Sentence base) </td>
