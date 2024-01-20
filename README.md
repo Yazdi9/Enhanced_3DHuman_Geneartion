@@ -1,10 +1,5 @@
 # 3D Human Avatar Generation
 
-![render_color (5)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54)
-
-![render_color (7)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b)
-
-
 
 <table class="center">
       <tr >
@@ -25,19 +20,13 @@
       <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/8ab1e3e2-a578-4283-a41d-ef346880d717.gif"></td>
       <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/33475fd0-e43b-4ea0-ac4d-e3b6e3b2c8d6.gif"></td>
       </tr>
-      <tr >
-      <td  style="border: none; text-align: center">Mesh </td>
-      <td  style="border: none; text-align: center">Mesh </td>
-      <td  style="border: none; text-align: center">Mesh </td>
-      <td  style="border: none; text-align: center">Mesh </td>
-      </tr>
-       <td style="border: none"><img src="Results/ezgif.com-video-to-gif.gif"></td>
-      <td style="border: none"><img src="Results/ezgif.com-video-to-gif (3).gif"></td>
-      <td style="border: none"><img src="Results/ezgif.com-video-to-gif (1).gif"></td>
-      <td style="border: none"><img src="Results/ezgif.com-video-to-gif (2).gif"></td>
-      </tr>
-    
+   
 </table>
+
+![render_color (5)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54)
+
+![render_color (7)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b)
+
 
 ## Installation
 ```bash
