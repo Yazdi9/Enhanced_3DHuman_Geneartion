@@ -3,11 +3,6 @@
 ![render_color (5)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54)
 
 ![render_color (7)](https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b)
- <td style="border: none"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/114cc68e-f409-4f9a-a343-787391157c54.gif"></td> 
- 
-
-
-![Uploading render_normals (2).gif…]()
 
 
 
@@ -26,9 +21,9 @@
       </tr>
       <tr >
       <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/34ea0ec7-3ff2-4b9c-bbf3-bb399ed37be5.gif"></td>
-      <td  style="border: none; text-align: center"><img src=".gif"></td>
+      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/fd7b2b6a-9379-47c4-a1f0-a348f5f2779f.gif"></td>
       <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/8ab1e3e2-a578-4283-a41d-ef346880d717.gif"></td>
-      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/076c7e20-38cb-4f47-9a17-abd36d8e140b.gif"></td>
+      <td  style="border: none; text-align: center"><img src="https://github.com/saba99/Enhanced_3DHuman_Geneartion/assets/33378412/33475fd0-e43b-4ea0-ac4d-e3b6e3b2c8d6.gif"></td>
       </tr>
       <tr >
       <td  style="border: none; text-align: center">Mesh </td>
@@ -41,12 +36,7 @@
       <td style="border: none"><img src="Results/ezgif.com-video-to-gif (1).gif"></td>
       <td style="border: none"><img src="Results/ezgif.com-video-to-gif (2).gif"></td>
       </tr>
-       <tr >
-      <td  style="border: none; text-align: center">The_astronaut_dances_in_futuristic..</td>
-      <td  style="border: none; text-align: center">A_daring_man_performing_gravity-defying</td>
-      <td  style="border: none; text-align: center">A_daring_man_is_scaling_a_treacherous..</td>
-      <td  style="border: none; text-align: center">A_mighty_elephant_marches_steadily.</td>
-      </tr>
+    
 </table>
 
 ## Installation
